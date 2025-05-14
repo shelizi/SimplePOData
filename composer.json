@@ -1,5 +1,5 @@
 {
-    "name": "qeti/simple-podata",
+    "name": "shelizi/simple-podata",
     "description": "Library for simple use OData with POData library",
     "keywords": ["odata", "podata", "rest"],
     "homepage": "https://github.com/qeti/SimplePOData#readme",
